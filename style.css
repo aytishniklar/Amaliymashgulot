@@ -1,0 +1,48 @@
+body{ 
+    display: flex; 
+    background-color: aqua; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh; 
+    transform-box: 2s; 
+     
+} 
+.container{ 
+    width: 300px; 
+    height: 200px; 
+    text-align: left; 
+    justify-content: center; 
+    margin: 50px 50px 10px 10px; 
+    padding: 0; 
+     
+} 
+h1{ 
+    color: blue; 
+    display: flex; 
+    font-size: 30px; 
+    font-weight: 600; 
+} 
+.matn{ 
+    color: white; 
+    justify-content: center; 
+ 
+} 
+.rasm{ 
+    text-align: right; 
+    width: 600px; 
+ 
+} 
+.button{ 
+    margin: 20px ; 
+     
+        
+} 
+.btn{ 
+    background-color: aqua; 
+    color: antiquewhite; 
+    width: 90px; 
+    height: 40px; 
+    border-color: blue; 
+    border-radius: 40px; 
+ 
+}
